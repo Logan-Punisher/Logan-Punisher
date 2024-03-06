@@ -4,7 +4,7 @@
 <h3 align="center">"Passionate Python programmer with a keen interest in cloud computing and diverse tech domains, showcasing projects on GitHub."</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **SMTP Mail Server**
+- 🔭 I’m currently working on **Data Analytics with AWS**
 
 - 🌱 I’m currently learning **AWS Cloud Computing**
 
